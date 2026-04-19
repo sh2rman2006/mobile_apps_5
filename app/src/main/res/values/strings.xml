@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab 5 MultiWindow</string>
+    <string name="color_status_format">Выбранный цвет: %1$s</string>
+</resources>
